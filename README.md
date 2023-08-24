@@ -6,4 +6,5 @@ in this first install
 
 
 ---npm i inquirer
+
 ---npm i qr-image
